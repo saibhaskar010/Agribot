@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<category>
+<pattern>What is maize</pattern>
+<template>Maize is an ideal forage crop grown throughout the country. 
+It is quick growing high yielding and supplies palatable and nutritious forage 
+which can be fed at any stage of growth without any risk to animals. It can be 
+fed as green or dry and makes excellent silage.
+
+
+stage.</template>
+</category>
+<category>
+<pattern>tell me some more about maize</pattern>
+<template>Maize produces good quality herbaceous fodder with high palatability. 
+On average, it contains 9-10%CP, 60-64% NDF, 38-41% ADF, 23-25% Hemicellulose, 
+and 28-30%Cellulose on dry matter basis when harvested at milk to early-dough </template>
+</category>
+<category>
+<pattern>tell me some * maize</pattern>
+<template>Maize produces good quality herbaceous fodder with high palatability. 
+On average, it contains 9-10%CP, 60-64% NDF, 38-41% ADF, 23-25% Hemicellulose, 
+and 28-30%Cellulose on dry matter basis when harvested at milk to early-dough</template>  
+</category>
+<category>
+<pattern>tell me *  soil conditions for Maize</pattern>
+<template>Well-drained, leveled and fertile loamy soil with neutral to slightly acidic reaction is best suited for its growth.
+ It is susceptible to water stagnation and moisture stress.</template>
+</category>
+<category>
+<pattern>tell me something about water management of Maize</pattern>
+<template>The maize crop is comparatively MORE to sensitive to excess moist and stress. It requires 5-6 irrigations at 10-12 days interval during summer season, 3-4 during Rabi and
+ 1-2 during rainy season when rainfall interval exceeds 12 days. </template>
+</category>
+<category>
+<pattern>tell me something about  seeding of maize</pattern>
+<template>
+Maize has bold seed size. It requires 50-60 kg seeds depending upon size.
+ Seed should be sown in lines spaced at 30 cm. For summer sowing in irrigated areas, last week of February to last week of March-April is the appropriate time. Rainy season crop is sown with the beginning of rains in June-­July. Rabi crop is sown in October-November particularly in eastern and 
+southern parts of the country. In hills sowing is taken up in May.
+</template>
+</category>
+<category>
+<pattern>tell me something about field preparation for Maize</pattern>
+<template>One operation with soil turning plough followed by two cross harrowings and leveling are adequate to get a weed free and leveled seed bed.</template>
+</category>
+<category>
+<pattern>tell me about fertilizers to be used for Maize </pattern>
+<template>100 Kg N+30 Kg P2O5 /ha is required for fodder maize. Half of the N dose should be given at sowing and remaining half at knee high stage of the crop. In zinc deficient soils (below 0.56 ppm Zn) 
+15-20 Kg zinc sulphate per hectare should also be broad cost at sowing.</template>
+</category>
+<category>
+<pattern>tell me about weed management of maize</pattern>
+<template>Weed control:
+At 3-4 weeks crop stage hoeing with weeder cum mulcher takes care of the weeds. Pre-emergence spray of Atrazine @ 0.75 to 1.0 kg a.i. /ha
+ in 600 litres of water ensures effective control of weeds.
+ </template>
+</category>
+<category>
+<pattern>tell me about disease management of Maize</pattern>
+<template>  Downey mildew, which can easily be identified with symptoms like narrow, chlorotic or yellowish stripe later developing in brown lesions. The disease is seed borne and may be escaped by seed treatment with Thiram@ 2g/kg seed. The bacterial stalk rot in which plant shows rotting from base of stalks upward or from the top downward. The soil trenching with bleaching powder@ 3g/10L water controls the disease. The brown spot in which lower parts of plants appear slightly bleached is caused due to water stagnation,
+ drain of excess water controls the disease.</template>
+</category>
+<category>
+<pattern>tell me about harvesting of maize</pattern>
+<template>The crop is ready for harvest at silk stage for fodder purpose, which continues up to milk stage. The early harvesting though produce good quality fodder but yield is reduced. 
+In case of late harvesting the fodder quality is impaired.
+
+</template>
+</category>
+</aiml>
